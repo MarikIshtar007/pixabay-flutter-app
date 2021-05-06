@@ -11,3 +11,9 @@ This app is built to emulate the similar features of Instagram Reels. That allow
 * Added functionality to browse and select local videos for uploading. (The videos don't get uploaded anywhere yet)
 
 ## Screenshots
+
+* Showing the Main Screen <br></br>
+![First Screenshot](screenshots/ss1.gif)
+
+The Second Screen that queries local videos and shows for uploading<br></br>
+![Screenshot](screenshots/ss2.png)<br></br>
