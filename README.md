@@ -1,16 +1,13 @@
-# pixabay
+# pixabay - An Instagram Reels mockup app
 
-A new Flutter project.
+This app is built to emulate the similar features of Instagram Reels. That allow the user to vertically scroll through lots of videos. 
 
-## Getting Started
+## Basic Features
 
-This project is a starting point for a Flutter application.
+* Plays Videos one at a time.
+* Vertically scrollable list of videos to access
+* Pause and play functinality
+* Fetching the Videos in real time from the pixabay server using API (please note that some videos do not provide sound, so it's not a bug of the app. Rather the cause of the video provided by the server)
+* Added functionality to browse and select local videos for uploading. (The videos don't get uploaded anywhere yet)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
